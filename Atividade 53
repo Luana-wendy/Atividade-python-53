@@ -1,0 +1,8 @@
+a = float (input("digite o primeiro número: "))
+b = float (input("digite o segundo número: ")) 
+c = float (input("digite o terceiro número: "))
+d= float (input("digite o quarto número: ")) 
+e = float (input("digite o quinto número:"))
+
+print ("soma=a+b+c+d+e")
+print ("média soma/5 ")
